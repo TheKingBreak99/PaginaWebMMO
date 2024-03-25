@@ -81,9 +81,17 @@
 
 .col-letra{
     color: black
+    
 }
 
 .fw-normal{
     color: black;
-    font-weight: bold;
+    font-weight: bold !important;
+}
+
+img {
+    display: block; 
+    margin: auto; 
+    max-width: 100%; 
+    height: auto;
 }
