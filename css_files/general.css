@@ -79,14 +79,26 @@
     background-color: azure;
 }
 
-.col-letra{
-    color: black
-    
+.col-description{
+    margin-left: 35%;
+    color: rgb(77, 75, 75);
+}
+
+.fw-description{
+    color: black;
+    font-weight: bold !important;
 }
 
 .fw-normal{
     color: black;
     font-weight: bold !important;
+    margin-bottom: 10px;
+    margin-right: 5%;
+}
+
+.col-letra{
+    color: black;
+    margin-bottom: 10px;
 }
 
 img {
@@ -94,4 +106,23 @@ img {
     margin: auto; 
     max-width: 100%; 
     height: auto;
+    margin-bottom: 20px;
+}
+
+.custom-row{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.intro-title{
+    text-align: center;
+    color: #f59235;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.intro-title, .fw-normal, .col-letra{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 90%;
 }
