@@ -76,5 +76,14 @@
 }
 
 .main-content{
-    background-color: #f89a1f;
+    background-color: azure;
+}
+
+.col-letra{
+    color: black
+}
+
+.fw-normal{
+    color: black;
+    font-weight: bold;
 }
