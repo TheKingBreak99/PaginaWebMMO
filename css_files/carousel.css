@@ -51,6 +51,10 @@ body {
   margin: 5rem 0; /* Space out the Bootstrap <hr> more */
 }
 
+.featurette-divider-marketing {
+  margin: 1rem 0;
+}
+
 /* Thin out the marketing headings */
 /* rtl:begin:remove */
 .featurette-heading {
