@@ -126,11 +126,3 @@ img {
     margin-right: auto;
     max-width: 90%;
 }
-
-@media(max-width:200px) {
-    .fw-description{
-        color: rgb(72, 243, 50);
-        font-weight: bold !important;
-        
-    }
-}
